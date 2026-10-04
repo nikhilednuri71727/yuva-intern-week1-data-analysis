@@ -1,30 +1,27 @@
-# Yuva Intern – Week 2: Data Analysis and Visualization for Campaign Performance
+# Yuva Intern – Week 3: Customer Segmentation and Targeting Analysis
 
-Candidate: Nikhil Ednuri  
-Role: Junior Data Analyst – Digital Marketing & Advertising
+Candidate: Nikhil Ednuri
 
 ## Objective
-Analyze campaign-performance data using KPIs, aggregations and visualizations.
+Identify customer segments using demographic and behavioral indicators and propose targeted marketing strategies.
 
-## KPIs
-- CTR
-- Engagement Rate
-- Conversion Rate
-- CPC
-- CPA
+## Method
+- Standardized numeric features
+- K-Means clustering with 3 clusters
+- Business interpretation of cluster profiles
+- Segment-specific targeting recommendations
+
+## Segments
+1. High-Value Engaged
+2. Active Deal Seekers
+3. Low-Engagement Explorers
 
 ## Visualizations
-1. Clicks by platform
-2. Conversions by platform
-3. CTR by platform
-4. Monthly conversion trend
-5. Advertising spend vs conversions
+- Segment size
+- Average monthly spend
+- Average engagement
+- Engagement vs monthly spend
+- Recency by segment
 
-## Tools
-Python, Pandas, Matplotlib, Excel, Word
-
-## Important transparency note
-This is a simulated practice analysis using the working dataset prepared for the internship exercise. The working dataset is not represented as a raw export from the public source.
-
-Public reference:
-https://www.kaggle.com/datasets/loveall/clicks-conversion-tracking
+## Transparency
+The customer-level working dataset is synthetic and was created solely to demonstrate the requested segmentation methodology. It does not represent real customers.
