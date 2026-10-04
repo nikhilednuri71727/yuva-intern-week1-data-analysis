@@ -1,27 +1,16 @@
-# Yuva Intern – Week 3: Customer Segmentation and Targeting Analysis
+# Yuva Intern – Week 4: Trend Analysis and Competitor Evaluation
 
 Candidate: Nikhil Ednuri
+Role: Junior Data Analyst – Digital Marketing & Advertising
 
 ## Objective
-Identify customer segments using demographic and behavioral indicators and propose targeted marketing strategies.
+Analyze digital-market trends and evaluate Nike and adidas using public information, then produce actionable marketing recommendations.
 
-## Method
-- Standardized numeric features
-- K-Means clustering with 3 clusters
-- Business interpretation of cluster profiles
-- Segment-specific targeting recommendations
-
-## Segments
-1. High-Value Engaged
-2. Active Deal Seekers
-3. Low-Engagement Explorers
-
-## Visualizations
-- Segment size
-- Average monthly spend
-- Average engagement
-- Engagement vs monthly spend
-- Recency by segment
+## Public sources
+- DataReportal: https://datareportal.com/reports/digital-2025-india
+- Nike SEC Form 10-K: https://www.sec.gov/Archives/edgar/data/320187/000032018726000088/nke-20260531.htm
+- adidas Annual Report 2025: https://report.adidas-group.com/2025/en/group-management-report-our-company/description-of-business-model/markets-and-sales-channels.html
+- adidas Product & Marketing: https://www.report.adidas-group.com/2025/en/group-management-report-our-company/product-and-marketing.html
 
 ## Transparency
-The customer-level working dataset is synthetic and was created solely to demonstrate the requested segmentation methodology. It does not represent real customers.
+The short-form-video trend index and 1–5 competitor capability scores are illustrative analytical constructs for the internship task. They are not presented as reported market statistics.
