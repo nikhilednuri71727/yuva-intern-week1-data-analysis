@@ -1,16 +1,22 @@
-# Yuva Intern – Week 4: Trend Analysis and Competitor Evaluation
+# Yuva Intern – Week 5: Predictive Modeling and Forecasting
 
 Candidate: Nikhil Ednuri
 Role: Junior Data Analyst – Digital Marketing & Advertising
 
 ## Objective
-Analyze digital-market trends and evaluate Nike and adidas using public information, then produce actionable marketing recommendations.
+Demonstrate a reproducible predictive-modeling workflow for digital advertising campaign outcomes.
 
-## Public sources
-- DataReportal: https://datareportal.com/reports/digital-2025-india
-- Nike SEC Form 10-K: https://www.sec.gov/Archives/edgar/data/320187/000032018726000088/nke-20260531.htm
-- adidas Annual Report 2025: https://report.adidas-group.com/2025/en/group-management-report-our-company/description-of-business-model/markets-and-sales-channels.html
-- adidas Product & Marketing: https://www.report.adidas-group.com/2025/en/group-management-report-our-company/product-and-marketing.html
+## Model
+Multiple Linear Regression predicting conversions from:
+- Ad Spend
+- CTR
+- Conversion Rate
+
+## Validation
+80/20 train-test split with R², MAE and RMSE.
+
+## Forecast
+Six-month scenario forecast using explicit assumptions for future spend, CTR and conversion rate.
 
 ## Transparency
-The short-form-video trend index and 1–5 competitor capability scores are illustrative analytical constructs for the internship task. They are not presented as reported market statistics.
+The campaign dataset is simulated for internship practice. Forecasts are scenario estimates and are not presented as real company predictions.
